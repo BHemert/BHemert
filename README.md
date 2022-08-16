@@ -3,7 +3,7 @@
 ---
 
 - 🔭 I’m currently a final year BSc Computer Science and Engineering student at the Hogeschool Rotterdam
-- ⚡ I'm currently learning AI, ML and ASM
+- ⚡ I'm currently learning AI, ML and RUST
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bjorn-van-hemert-160715198/)
 
 ---
