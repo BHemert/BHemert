@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 I’m currently a Embeddes Software Consultant at ALTEN
+- 🔭 Technical Software Engineering Consultant at ALTEN
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bjorn-van-hemert-160715198/)
 
 ---
